@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Breif Bio"
+title: "Brief Bio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
