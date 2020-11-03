@@ -65,7 +65,7 @@ and querying of data provenance.
   
 Skills
 ======
-My key research contributions are in algorithms for the analysis of
+My key research interests are in algorithms for the analysis of
 strings and sequences, with a focus on algorithmic problems arising in
 bioinformatics and computational biology. Next generation sequencing data are large collections of
 strings and developments in the area of string algorithms have turned
