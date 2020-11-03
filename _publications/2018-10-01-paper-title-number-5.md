@@ -1,0 +1,10 @@
+---
+title: "Longest Common Prefixes with k-Errors and Applications."
+collection: publications
+permalink: /publication/2018-01-01-paper-title-number-5
+excerpt: 'Our contributions can be summarised as follows: (a) we design the first algorithm to solve the partitioning problem on weighted strings for arbitrary z and \(\sigma \) in time \(\mathcal {O}(\upsilon n \log \upsilon n)\) and space \(\mathcal {O}(\upsilon n)\) improving the state of the art for \(z=\mathcal {O}(1)\); (b) we improve the state of the art for numerous other string processing problems; and (c) we show further combinatorial insight into the relation between weighted and indeterminate strings, that is, sequences of alphabet subsets without associated occurrence probabilities.'
+date: 2018-01-01
+venue: 'Proceedings of the International Symposium on String Processing and Information Retrieval'
+paperurl: 'https://arxiv.org/abs/1801.04425'
+---
+Although real-world text datasets, such as DNA sequences, are far from being uniformly random, average-case string searching algorithms perform significantly better than worst-case ones in most applications of interest. In this paper, we study the problem of computing the longest prefix of each suffix of a given string of length n over a constant-sized alphabet that occurs elsewhere in the string with k-errors. This problem has already been studied under the Hamming distance model. Our first result is an improvement upon the state-of-the-art average-case time complexity for non-constant k and using only linear space under the Hamming distance model. Notably, we show that our technique can be extended to the edit distance model with the same time and space complexities. Specifically, our algorithms run in O(nlogknloglogn) time on average using O(n) space. We show that our technique is applicable to several algorithmic problems in computational biology and elsewhere.
